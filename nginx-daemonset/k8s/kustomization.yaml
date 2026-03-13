@@ -1,0 +1,6 @@
+resources:
+  - daemonset.yaml
+
+images:
+  - name: nginx
+    newTag: latest
